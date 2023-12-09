@@ -1,4 +1,4 @@
-﻿# Executar o ambiente de desenvolvimento
+﻿# Servidor Django x Crud FastAPI
 ## Django
 ```
 docker-compose up -d --build
@@ -125,7 +125,7 @@ admin.site.register(Product)
 basta adicionar uma função str ao models.py
 ```
 
-# Extras
+### Extras
 ```
 start container
 attach shell
